@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ravi Parihar and I'm a Btech CSE Student from Nainital</h2>
+<h2 align="left">Hi 👋 My name is Ravi Parihar and I'm a Btech CSE Student from Nainital</h2>
 
 ###
 
